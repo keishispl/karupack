@@ -1,0 +1,6 @@
+{
+  "parent": "toolbox",
+  "textures": {
+    "0": "toolbox"
+  }
+}
