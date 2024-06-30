@@ -4,6 +4,10 @@
 
 This is a resource pack that enables better gameplay and custom item textures in the Karu Minecraft Server (Invite-only).
 
+**Downloads**
+
+[Github Releases](https://github.com/keishispl/karupack/releases)
+
 **Dependencies**
 
 Most of this pack requires [CIT Resewn](https://modrinth.com/mod/cit-resewn).
